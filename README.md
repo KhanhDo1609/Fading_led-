@@ -8,7 +8,7 @@ The animated preview below plays directly in this README. It is generated from t
 
 ![Physical Arduino circuit with a fading red LED](media/fading-led-demo.gif)
 
-**[Watch or download the MP4 demo](media/fading-led-demo.mp4)** · [Original recording](media/original/IMG_0106.mp4)
+**[Watch or download the MP4 demo](https://raw.githubusercontent.com/KhanhDo1609/Fading_led-/main/media/fading-led-demo.mp4)** · [Original recording](media/original/IMG_0106.mp4)
 
 The playback copy uses 8-bit H.264 video and AAC audio for browser compatibility. The original 10-bit recording is preserved unchanged. The GIF is silent; open the MP4 for the full recording with audio.
 
